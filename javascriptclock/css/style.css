@@ -1,0 +1,49 @@
+body {
+    background: black;
+    background-image: url(https://i.picsum.photos/id/16/2500/1667.jpg?hmac=uAkZwYc5phCRNFTrV_prJ_0rP0EdwJaZ4ctje2bY7aE)
+  }
+  
+  .clock {
+    position: relative;
+    text-align: center;
+    color: #d6d3d1;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+  }
+  
+  .text1 {
+    position: relative;
+    text-align: center;
+    color: #d6d3d1;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+  }
+  
+  .text2 {
+    position: relative;
+    text-align: center;
+    color: #d6d3d1;
+    font-size:  30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  
+   img {
+       margin-top: 120px;
+       width: 30%;
+       
+  }
+  
+  .img-kodluyoruz {
+    margin-bottom: 2%;
+  }
+  
+  .img-gif {
+    max-width: 50px;
+    margin-top: 0%;
+    padding: auto;
+  }
